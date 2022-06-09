@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deadline
+  - HitBox2
+  - HitBox1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - player
+  - block
+  - DeathLine
+  - Hitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backplayer
+    uniqueID: 2829880081
+    locked: 0
+  - name: players
+    uniqueID: 850623973
+    locked: 0
+  - name: frontblocks
+    uniqueID: 2922853555
+    locked: 0
